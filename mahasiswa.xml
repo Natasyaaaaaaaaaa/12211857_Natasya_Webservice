@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<data>
+    <mahasiswa id="1">
+        <nama>natasya</nama>
+        <nim>12211857</nim>
+        <alamat>
+            <desa>sepanjang</desa>
+            <kecamatan>taman</kecamatan>
+        </alamat>
+    </mahasiswa>
+    <mahasiswa id="2">
+        <nama>hanindya</nama>
+        <nim>12211858</nim>
+        <alamat>
+            <desa>pagesangan</desa>
+            <kecamatan>jambangan</kecamatan>
+        </alamat>
+    </mahasiswa>
+    <mahasiswa id="3">
+        <nama>sari</nama>
+        <nim>12211859</nim>
+        <alamat>
+            <desa>wage</desa>
+            <kecamatan>taman</kecamatan>
+        </alamat>
+    </mahasiswa>
+    <mahasiswa id="4">
+        <nama>cantik</nama>
+        <nim>12211860</nim>
+        <alamat>
+            <desa>kebonsari</desa>
+            <kecamatan>jambangan</kecamatan>
+        </alamat>
+    </mahasiswa>
+</data>
